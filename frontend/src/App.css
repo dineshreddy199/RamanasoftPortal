@@ -1,0 +1,139 @@
+.body-div{
+  display: flex;
+  flex-direction:row;
+}
+
+.left{
+width: 289px;
+height: 1059px;
+position: absolute;
+top: 41px;
+left: 52px;
+border-radius: 22px;
+border-width: 1px;
+background: #70707070;
+border: 1px solid #7070707D;
+/* backdrop-filter: blur(27.600000381469727px); */
+
+
+}
+
+.company-logo{
+  width: 251px;
+  height: 73px;
+  position: absolute;
+  top: 62px;
+  left: 70px;
+
+}
+.Dashboard{
+width: 251px;
+height: 54px;
+position: absolute;
+top: 169px;
+left: 70px;
+border-radius: 44px;
+border-width: 1px;
+background: #C5B1304D;
+border: 1px solid #C5B130B8
+/* backdrop-filter: blur(12.600000381469727px) */
+
+}
+
+.Dashboard-Img{
+width: 25px;
+height: 25px;
+position: absolute;
+top: 183px;
+left: 91px;
+border-width: 1px;
+
+}
+.Dashboard-txt{
+width: 81px;
+height: 17px;
+position: absolute;
+top: 187px;
+left: 155px;
+}
+.Header{
+ width: 1397px;
+height: 65px;
+position: absolute;
+top: 42px;
+left: 1757px;
+border-radius: 10px;
+border-width: 1px;
+
+background: #63636359;
+border: 1px solid #636363BF
+  }
+.Card1{
+  width:250px;
+  height: 250px;
+  background-color: rgb(89, 93, 141);
+  position: relative;
+  top: 120px;
+  right: 450px;
+  margin-left: 20px;
+  text-align: center;
+
+  border: 2px solid rgb(79, 83, 131);
+  border-radius: 10px;
+}
+.Card2{
+  width:250px;
+  height: 250px;
+  background-color: rgb(89, 93, 141);
+  position: relative;
+  top: 120px;
+  right: 450px;
+  margin-left: 20px;
+  text-align: center;
+
+  border: 2px solid rgb(79, 83, 131);
+  border-radius: 10px;
+}
+.Card3{
+  width:250px;
+  height: 250px;
+  background-color: rgb(89, 93, 141);
+  position: relative;
+  top: 120px;
+  right: 450px;
+  margin-left: 20px;
+  text-align: center;
+
+  border: 2px solid rgb(79, 83, 131);
+  border-radius: 10px;
+}
+
+hr{
+  width: 200px;
+}
+.Card1-btn{
+  background-color: rgb(107, 107, 252);
+  border: 0px;
+  width: 70px;
+  height: 20px;
+  border-radius: 10px;
+  position: relative;
+  left: 130px;
+  display: flex;
+  flex-direction: row;
+  color: aliceblue;
+}
+.Card1-btn-Img{
+  width:20px;
+  height: 15px;
+  margin: 2px 0px 2px 8px;
+}
+.Card1-Img{
+  position: relative;
+  top: 10px;
+  margin: 20px;
+}
+.Card1-p{
+  margin: 20px;
+  color: aliceblue;
+}

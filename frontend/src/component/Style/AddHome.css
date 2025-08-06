@@ -1,0 +1,25 @@
+.MainBox{
+width: 751px;
+height: 568px;
+position: absolute;
+top: 191px;
+left: 675px;
+border-radius: 20px;
+border-width: 1px;
+background: #7AB9E65C;
+border: 1px solid #7AB9E638;
+backdrop-filter: blur(12.600000381469727px)
+}
+.Heading{
+width: 159px;
+height: 32px;
+position: absolute;
+top: 19px;
+left: 297px;
+font-family: Segoe UI;
+font-weight: 600;
+font-size: 30px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}

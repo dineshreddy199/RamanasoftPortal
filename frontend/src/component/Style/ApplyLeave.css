@@ -1,0 +1,87 @@
+.leave-container {
+  background-color: #264f33;
+  padding: 30px;
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  position: absolute;
+  top:1.15rem;
+  left: 17rem;
+  border-radius: 15px;
+  margin-top: 50px;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+.date{
+  display: flex;
+  flex-direction: row;
+  gap:30px;
+}
+.date-in{
+  width: 300px;
+  height: 150px;
+}
+.leave-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input[type="date"],
+textarea {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+textarea {
+  height: 100px;
+  resize: none;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.cancel-btn,
+.submit-btn {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cancel-btn {
+  background-color: #444;
+  color: #fff;
+}
+
+.cancel-btn:hover {
+  background-color: #333;
+}
+
+.submit-btn {
+  background-color: #4caf50;
+  color: white;
+}
+
+.submit-btn:hover {
+  background-color: #45a049;
+}

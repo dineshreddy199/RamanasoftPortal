@@ -1,0 +1,155 @@
+.Header{
+width: 1397px;
+height: 65px;
+position: absolute;
+top: 2px;
+left: 300px;
+border-radius: 10px;
+border-width: 1px;
+background: #63636359;
+border: 1px solid #636363BF;
+backdrop-filter: blur(25.799999237060547px)
+}
+
+.back-btn{
+width: 120px;
+height: 40px;
+position: absolute;
+top: 12.5px;
+left: 28px;
+border-radius: 15px;
+border-width: 1px;
+background: #FBC42D73;
+border: 1px solid #FBC42D33;
+backdrop-filter: blur(20.399999618530273px);
+
+}
+.back-btn-txt{
+width: 41px;
+height: 28px;
+position: absolute;
+top: 2px;
+left: 40px;
+font-family: Segoe UI;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+
+
+.Nav-txt{
+width: 381px;
+height: 35px;
+position: absolute;
+top: 57px;
+left: 918px;
+font-family: Segoe UI;
+font-weight: 700;
+font-size: 25px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.Add-btn{
+width: 95px;
+height: 40px;
+position: absolute;
+top: 14px;
+left: 1570px;
+border-radius: 20px;
+border-width: 1px;
+background: #E7CA0D85;
+border: 1px solid #E7CA0D3B;
+backdrop-filter: blur(18.600000381469727px);
+/* // On click
+// Navigate to: "Dashboard Admin Employee Details Section Addition";
+// Animate: Smart animate; */
+animation-timing-function: linear;
+animation-duration: 400ms;
+}
+.Add-btn p{
+width: 53px;
+height: 30px;
+position: absolute;
+top: 5.25px;
+left: 19px;
+font-family: Segoe UI;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.Main-Box{
+width: 1397px;
+height: 792px;
+position: absolute;
+top: 191px;
+left: 360px;
+border-radius: 25px;
+border-width: 1px;
+background: #ab95f9;
+/* border: 2px solid rgba(271, 149, 249, 0.35); */
+border: 2px solid rgba(171, 149, 249, 0.35);
+backdrop-filter: blur(18.600000381469727px);
+
+}
+.SearchBar{
+width: 550px;
+height: 50px;
+position: absolute;
+top: 19px;
+left: 814px;
+border-radius: 25px;
+border-width: 1px;
+background: #FFFFFFB0;
+border: 1px solid #FFFFFF08;
+backdrop-filter: blur(21px);
+}
+.SearchBar-txt{
+width: 266px;
+height: 28px;
+position: absolute;
+top: 11px;
+left: 25px;
+font-family: Segoe UI;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #4A4949BF;
+
+}
+.SearchIcon{
+width: 17.575000762939453px;
+height: 17.575000762939453px;
+position: absolute;
+top: 16px;
+left: 504px;
+border-width: 1px;
+background: #f0f0fe00;
+border: 1px solid #9683080A;
+backdrop-filter: blur(24px)
+
+}
+.TableHeader-In{
+width: 1330px;
+height: 84px;
+border-radius: 50px;
+border-width: 1px;
+background: #00D5FF73;
+border: 1px solid #00D5FF;
+backdrop-filter: blur(12px)
+
+}
+.TableHeader{
+width: 1330px;
+height: 84px;
+position:absolute;
+top: 91px;
+left: 34px;
+border: 1px solid #00D5FF;
+}
+

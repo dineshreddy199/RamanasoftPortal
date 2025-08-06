@@ -1,0 +1,168 @@
+
+.Header{
+width: 1397px;
+height: 65px;
+position: absolute;
+top: 2px;
+left: 300px;
+align-items: center;
+border-radius: 10px;
+border-width: 1px;
+background: #63636359;
+border: 1px solid #636363BF;
+backdrop-filter: blur(25.799999237060547px)
+}
+
+
+.back-btn{
+width: 120px;
+height: 40px;
+position: absolute;
+top: 12.5px;
+left: 28px;
+border-radius: 15px;
+border-width: 1px;
+background: #FBC42D73;
+border: 1px solid #FBC42D33;
+backdrop-filter: blur(20.399999618530273px);
+
+}
+.back-btn-txt{
+width: 41px;
+height: 28px;
+position: absolute;
+top: -20px;
+left: 40px;
+font-family: Segoe UI;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+
+
+.Card1{
+width: 261px;
+height: 272px;
+position: absolute;
+top: 121px;
+left: 360px;
+border-width: 1px;
+background: rgba(148, 200, 255, 0.351);
+border: 1px solid #94C8FFDB;
+backdrop-filter: blur(18.600000381469727px);
+-webkit-backdrop-filter: blur(20px); 
+/* background: rgba(255, 255, 255, 0.1);  */
+border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+.Card1-Img{
+width: 75px;
+height: 75px;
+/* display: flex; */
+/* justify-self: center; */
+position: absolute;
+top: 41px;
+left: 75px;
+}
+.Card1-p{
+width: 147px;
+height: 41px;
+position: absolute;
+top: 143px;
+left: 47px;
+text-align: center;
+font-family: Urbanist;
+font-weight: 700;
+font-size: 16px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+hr{
+width: 224px;
+position: absolute;
+top: 190px;
+left: 18px;
+border-width: 1px;
+   
+}
+.CardBtn{
+width: 100px;
+height: 30px;
+position: absolute;
+top: 227px;
+left: 142px;
+border-radius: 15px;
+border-width: 1px;
+background: #007BFFA1;
+border: 1px solid #007BFF;
+backdrop-filter: blur(19.200000762939453px)
+}
+.Card1-btn-txt{
+width: 33px;
+height: 20px;
+position: absolute;
+top: 5px;
+left: 20px;
+font-family: Urbanist;
+font-weight: 700;
+font-size: 14px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.Card1-btn-Img{
+width: 18px;
+height: 18px;
+position: absolute;
+top: 4px;
+left: 60.25px;
+
+}
+
+.Card2{
+width: 261px;
+height: 272px;
+position: absolute;
+top: 121px;
+left: 639px;
+border-radius: 8px;
+border-width: 1px;
+background: #9af99b4a;
+border: 1px solid #9AF99B;
+backdrop-filter: blur(18.600000381469727px);
+-webkit-backdrop-filter: blur(20px); 
+border-radius: 20px;
+  /* background: rgba(255, 255, 255, 0.1);  */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+}
+.Card3{
+width: 261px;
+height: 272px;
+position: relative;
+top: 121px;
+left: 920px;
+border-radius: 8px;
+border-width: 1px;
+background: #AB95F959;
+border: 1px solid #ab95f9ba;
+backdrop-filter: blur(26.399999618530273px);
+-webkit-backdrop-filter: blur(20px); 
+border-radius: 20px;
+  /* background: rgba(255, 255, 255, 0.1);  */
+  /* border: 1px solid rgba(255, 255, 255, 0.3); */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+}
+.CardBtn:hover , .back-btn{
+    cursor:pointer;
+}
+
+.Nav-txt{
+position: absolute;
+top:2.2rem;
+}

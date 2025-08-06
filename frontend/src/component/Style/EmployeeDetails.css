@@ -1,0 +1,235 @@
+.Nav-txt{
+/* width: 381px;
+height: 35px; */
+width: 350px;
+height: 19.2px;
+position: absolute;
+top: 13.3px;
+left: 668px;
+font-family: Segoe UI;
+font-weight: 700;
+font-size: 25px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.Back_bttn{
+    width: 5rem;
+    height: 1.6rem;
+    position: absolute;
+    top: 1.2rem;
+    left:17rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Back_bttn{
+    width: 5rem;
+    height: 1.6rem;
+    position: absolute;
+    top: 1.2rem;
+    left:17rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Add_bttn{
+    width: 5rem;
+    height: 1.6rem;
+    position: absolute;
+    top: 1.2rem;
+    left:74.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Main-Box{
+width: 1047.75px;
+height: 434.5px;
+position: absolute;
+top: 104.8px;
+left: 270px;
+border-radius: 13.2px;
+border-width: 1px;
+background: #94C8FF73;
+backdrop-filter: blur(18.600000381469727px);
+
+}
+.SearchBar{
+width: 412.5px;
+height: 27.4px;
+position: absolute;
+top: 10.4px;
+left: 610px;
+border-radius: 13.3px;
+border-width: 1px;
+background: #FFFFFFB0;
+border: 1px solid #FFFFFF08;
+backdrop-filter: blur(21px);
+}
+ .SearchBar-in{
+width: 412.5px;
+height: 27.4px;
+border-radius: 18.75px;
+border-width: 1px;
+background: #FFFFFFB0;
+border: 0px solid #FFFFFF08;
+backdrop-filter: blur(21px);
+font-family: Segoe UI;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+text-indent: 3rem;
+letter-spacing: 0%;
+color: #4A4949BF;
+
+} 
+.SearchIcon{
+width: 17.575000762939453px;
+height: 17.575000762939453px;
+position: absolute;
+top: 5.0px;
+left: 375px;
+border-width: 1px;
+/* border: 1px solid #9683080A; */
+backdrop-filter: blur(74px)
+
+}
+.TableHeader{
+width: 997.5px;
+height: 46.08px;
+position:absolute;
+top: 50px;
+left: 25.5px;
+border: 1px solid #00D5FF;
+border-radius: 8px;
+}
+.TableHeader-In{
+width: 997.5px;
+height: 46.1px;
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 20px;
+background: #00D5FF73;
+border: 1px solid #00D5FF;
+backdrop-filter: blur(12px);
+display:flex;
+flex-direction: column;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.TableHeader-In span{
+    width:141.56px;
+    height: 46.1px;
+    font-size: 10.5px;
+    color:#F1F1F1;
+    align-content: center;
+    text-indent: 12px;
+    /* text-align-last: center; */
+}
+
+.TableBody{
+    width: 997.5px;
+    height: 297.35px;
+    border: 1px solid #00D5FF;
+    position: absolute;
+    top: 105px;
+    left: 34px;
+    background-color: #F1F1F1;
+    border-radius: 25px;
+}
+.TableBody-In{
+    width: 977.0px;
+    height: 29.3px;
+    margin-top: 5.5px;
+    margin-left: 5.8px;
+    background-color: #9dcaf9;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5.2px;
+    border: 1px solid #00D5FF;
+
+}
+.TableBody-In span{
+    width:142.42px;
+    height: 28.7px;
+    color:#000000;
+    font-size: 10.5px;
+    text-indent: 12px;
+    align-content: center;
+}
+#EmployeeReq span{
+    width:122.4px;
+    height: 24.7px;
+    /* border: #000000 solid 1px; */
+    color:#000000;
+    position: relative;
+    left:40px;
+    top:1px;
+    font-size: 10.5px;
+    align-content: center;
+    text-align-last: center;
+}
+.TableFooter{
+    width: 138.75px;
+    height: 12.07px;
+    /* border: 1px solid pink; */
+    position: absolute;
+    left: 865px;
+    top: 374.15px;
+    display: flex;
+    /* flex-direction: ; */
+}
+.TableFooter-In{    
+width: 160px;
+height: 12.07px;
+position: absolute;
+display: flex;
+flex-direction: row;
+/* margin: 10px 12px 10px 12px; */
+}
+
+.FooterArrow{
+    padding: 0px;
+    border-radius: 5px;
+    margin: 0px;
+    width: 21px;
+    height: -42.07px;
+    object-view-box:calc();
+
+}
+
+.Add-btn:hover{
+    cursor: pointer;
+}
+
+#EmployeeRequest_TableHeader-In span{
+    width:125.5px;
+    height: 46.1px;
+    font-size: 10.5px;
+    color:#F1F1F1;
+    align-content: center;
+    text-align-last: center;
+}
+
+.confirmation-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+}

@@ -1,0 +1,98 @@
+.left{
+/* width: 289px;
+height: 1059px; */
+width: 216.75px;
+height: 580.979166666666px;
+position: absolute;
+top: 0.72rem;
+left: 0.52rem;
+border-radius: 22px;
+border-width: 1px;
+background: #70707070;
+border: 1px solid #7070707D;
+backdrop-filter: blur(27.600000381469727px);
+}
+/*
+
+tostify;
+const h=632/1152;
+const w=1362/1820;
+width: 289px;
+height: 1059px;
+h1=height*h ;
+w1=width*w;
+console.log(`width:${w1};height:${h1}`)
+ */
+.company-logo{
+/* width: 251px;
+height: 73px; */
+width: 188.25px;
+height: 40.05px;
+display: flex;
+justify-self: center;
+margin-top: 30px;
+}
+.Dashboard{
+/* width: 251px;
+height: 54px; */
+width: 188.25px;
+height: 29.63px;
+position: absolute;
+top: 77.73px;
+left: 13.45px;
+border-radius: 24.14px;
+border-width: 1px;
+ background: #C5B1304D;
+border: 1px solid #C5B130B8;
+backdrop-filter: blur(12.600000381469727px)
+
+}
+
+.homeLogo{
+  /* width: 34px;
+  height: 34px; */
+  width: 25.5px;
+  height: 18.65px;
+  position: absolute;
+  top:11%;
+  left:10%;
+}
+.Dashboard-txt{
+width: 81px;
+height: 17px;
+width: 60.75px;
+height: 17px;
+position: absolute;
+top: 7px;
+left: 63.75px;
+font-family: Segoe UI;
+font-weight: 600;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+
+}
+
+.NavTab{
+/* width: 1397px;
+height: 65px; */
+width: 1047.75px;
+height: 39.66px;
+position: absolute;
+top: 0.741rem;
+left: 15.75rem;
+/* angle: -180 deg; */
+border-radius: 5.48px;
+border-width: 1px;
+background: #63636359;
+border: 1px solid #636363BF;
+backdrop-filter: blur(25.799999237060547px);
+}
+.NavTab p{
+  color:#fa4444;
+  justify-content: center;
+  position:absolute;
+  top:8px;
+  left:220px;
+}
